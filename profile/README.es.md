@@ -1,7 +1,7 @@
 # Smart Blueprints 🎓✨
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Smart-Blueprints/.github/blob/main/README.md)
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/Smart-Blueprints/.github/blob/main/README.es.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Smart-Blueprints/.github/blob/main/profile/README.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/Smart-Blueprints/.github/blob/main/profile/README.es.md)
 
 Bienvenidos a Smart Blueprints, el grupo de investigación de la Universidad Central “Marta Abreu” de Las Villas dedicado al estudio y desarrollo de nuevos productos tecnológicos educativos. Nos apasiona fusionar la tecnología y la educación para crear soluciones innovadoras que mejoren las experiencias de aprendizaje.
 
